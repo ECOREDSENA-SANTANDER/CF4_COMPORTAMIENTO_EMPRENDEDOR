@@ -126,7 +126,7 @@
 
 
     Separador
-    #t_2_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 2.2  Flujo de caja o efectivo
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-4(data-aos="fade-down")

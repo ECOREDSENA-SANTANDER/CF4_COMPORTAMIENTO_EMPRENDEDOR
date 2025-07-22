@@ -65,13 +65,23 @@ figcaption, table caption
 .bg2
   background-color: #FFE6C3 !important
 .bg3
-  background-color:  #275470
+  background-color: #275470
 .bg4
   background-color: #E9F2E5
 .bg5
   background-color: #FEFAEC
 .bg6
   background-color: #B8DCF3
+.bg7
+  background-color: #DBEDF9
+.bg8
+  background-color: #FEF6D9
+.bg9
+  background-color: #FEFAEB
+.bg10
+  background-color: #F3F9FF
+.bg11
+  background-color: #DEE4F0
 
 .bgg-1
   background: #F3E6CB
@@ -80,6 +90,19 @@ figcaption, table caption
 .bgc-1
   background-image: url('../assets/curso/temas/t2/bgc-1.png')
   background-position: bottom
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover 
+.bgs-1
+  background-image: url('../assets/curso/temas/t1/bg-slider.png')
+  background-position: bottom
+  border-radius: 30px
   background-size: 100% 100%
   background-repeat: no-repeat
   margin-inline: -3.4rem
@@ -132,16 +155,19 @@ figcaption, table caption
 .subt3
   background-color: #37840F
   width: fit-content
-  padding: 5px 20px 2px 20px
+  padding: 3px 20px 2px 20px
   h3, h4
     color: #FFF
 .subt4
-  background-color: #DBEDF9
+  background-color: #275470
   width: fit-content
-  padding: 5px 20px
-  border-radius: 50px
+  padding: 3px 20px 2px 20px
+  h3, h4
+    color: #FFF
 .lista-ul--color.color-2 li > i:first-of-type  
   color: #7E5F35
+.lista-ul--color.color-3 li > i:first-of-type  
+  color: #275470
 .img-neg
   position: relative
   img
@@ -157,7 +183,10 @@ figcaption, table caption
   background-color: #37840F
   width: 46px
   height: 10px
-
+.deco3
+  background-color: #7E6A21
+  width: 46px
+  height: 10px
 
 .tarjeta-boton2
   background-color: #FFE6C3
@@ -188,3 +217,16 @@ figcaption, table caption
   display: flex
   justify-content: center
   align-items: center
+.slyder-a
+  &__btn--sigt, &__btn--atrs
+    background-color: #006EEF 
+    opacity: 0.9
+  &__bullets__item
+    background-color: #B9D4AB
+    border-color: #B9D4AB
+    &--active
+      background-color: #37840F
+      border-color: #37840F
+.tabla-a 
+  th
+    background-color: #FEF6D9
