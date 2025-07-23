@@ -82,6 +82,12 @@ figcaption, table caption
   background-color: #F3F9FF
 .bg11
   background-color: #DEE4F0
+.bg12
+  background-color:  #FFF2E1
+.bg13
+  background-color: #D6E6CE
+.bg14
+  background-color: #7E5F35
 
 .bgg-1
   background: #F3E6CB
@@ -112,7 +118,11 @@ figcaption, table caption
   @media screen and (max-width: 767px)
     margin-inline: -1.4rem  
     background-size: cover 
-
+.bgi-1
+  background-image: url('../assets/curso/temas/t3/bg.png')
+  background-position: center
+  background-size: 100% 100%
+  background-repeat: no-repeat
 
 .w-90px
   width: 90px
@@ -148,8 +158,8 @@ figcaption, table caption
 .subt2
   background-color: #37840F
   width: fit-content
-  padding: 5px 20px 2px 20px
-  margin: 0 auto
+  padding: 5px 20px 5px 20px
+  border-radius: 500px
   h3, h4
     color: #FFF
 .subt3
@@ -173,7 +183,7 @@ figcaption, table caption
   img
     position: absolute
     left: -12%
-    top: 50%;
+    top: 50%
     transform: translateY(-50%)
 .deco
   background-color: #4FAAE3
@@ -230,3 +240,96 @@ figcaption, table caption
 .tabla-a 
   th
     background-color: #FEF6D9
+
+
+/* Tarj Hover Tema 3 */
+.cursor-pointer.crd_hover_txt
+  cursor: pointer
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+      background-color: rgba(255, 230, 195, 1) 
+      h4 
+        color: $color-sistema-texto
+        transition: all 0.3s ease-out
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: #36769D  
+    h4
+      color: #FFF
+      transition: all 0.3s ease-out
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
+
+
+/* Formulas */
+.formula-container 
+  font-size: 20px
+.fraction 
+  display: inline-block
+  position: relative
+  vertical-align: middle
+  text-align: center
+  font-size: 20px
+.numerator 
+  border-bottom: 2px solid $color-sistema-texto
+  padding: 0 5px 2px 5px
+.denominator 
+  padding: 2px 5px 0 5px
+.v2 
+  margin-right: 10px
+.equals 
+  margin: 0
+.v 
+  margin-left: 10px
+
+.math-formula
+  .formula2
+    display: inline-flex
+    align-items: center
+    vertical-align: middle
+  .summation2
+    font-size: 35px
+    position: relative
+    font-weight: 200
+    .subscript2
+      font-size: 16px
+      position: absolute
+      bottom: -17px
+      width: 100%
+      font-weight: normal
+      left: 5%
+    .superscript2
+      font-size: 16px
+      position: absolute
+      top: -12px
+      width: 100%
+      font-weight: normal
+      left: 10%
+  .fraction2
+    display: inline-flex
+    flex-direction: column
+    align-items: center
+    margin: 0 0.2em
+    .numerator2
+      padding: 0 0.3em
+    .denominator2
+      border-top: 1px solid $color-sistema-texto
+      padding-top: 0.2em
+  .bracket2
+    font-size: 55px
+    font-weight: 300
+    margin: 0 0.1em
+  .operator2
+    margin: 0 0.2em
