@@ -213,7 +213,7 @@ export default {
         'entradas de dinero que la empresa recibe por la venta de bienes o prestación de servicios. ',
     },
     {
-      termino: 'Ponto de equilibrio',
+      termino: 'Punto de equilibrio',
       significado:
         'nivel mínimo de ventas o producción en el que los ingresos igualan a los costos totales, sin generar pérdidas ni utilidades. ',
     },
@@ -258,7 +258,7 @@ export default {
     },
     {
       referencia:
-        'Salazar, I.P. (2010). Guía Práctica para la identificación, formulación y evaluación de proyectos.Bogotá.Editorial Universidad del Rosario. ',
+        'Salazar, I.P. (2010). Guía Práctica para la identificación, formulación y evaluación de proyectos.Bogotá. Editorial Universidad del Rosario. ',
     },
     {
       referencia:
@@ -311,8 +311,8 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Animador y productor audiovisual',
+          nombre: 'María Alejandra Vera Briceño',
+          cargo: 'Animadora y productora audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -321,13 +321,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          nombre: 'Yineth González Quintero',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: ' ',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

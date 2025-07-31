@@ -38,7 +38,7 @@
           .col-auto
             .subt3.text-white.mb-2
               h3.mb-0 Costos fijos
-        p.mb-0 Permanecen constantes, independientemente del volumen de producción (ej. alquiler, sueldos administrativos, seguros).
+        p.mb-0 Permanecen constantes, independientemente del volumen de producción (ejemplo: alquiler, sueldos administrativos, seguros).
       .col-md.tarjeta.bg2.p-5
         .row.align-items-end.mb-4
           .col-auto
@@ -46,7 +46,7 @@
           .col-auto
             .subt3.text-white.mb-2
               h3.mb-0 Costos variables
-        p.mb-0 Varían en proporción directa con el nivel de producción o ventas (ej. insumos, comisiones, mano de obra directa).
+        p.mb-0 Varían en proporción directa con el nivel de producción o ventas (ejemplo: insumos, comisiones, mano de obra directa).
 
     p.mb-5 Es recomendable trabajar con datos anuales o mensuales, según la periodicidad de la evaluación financiera del proyecto.
 
@@ -90,7 +90,7 @@
       .col-lg-8.ps-lg-0
         .bg12.p-4.p-lg-5.h-100
           p El uso del dinero en el tiempo implica un costo, ya que no puede ser considerado gratuito. Cada vez que se presta, invierte o utiliza una suma de dinero, se renuncia a la posibilidad de emplearlo en otras alternativas rentables. Por esta razón, se debe reconocer un valor adicional como compensación por el riesgo asumido o por el uso del capital; a este valor se le conoce como interés.
-          p.mb-0 Desde el punto de vista financiero, cuando una persona presta una cantidad de dinero (P) y luego de un tiempo determinado recibe una suma mayor (F), la diferencia entre ambas cantidades representa el interés generado (I). Esta variación se conoce como el valor del dinero en el tiempo y se expresa con la fórmula:
+          p.mb-0 Desde el punto de vista financiero, cuando una persona presta una cantidad de dinero (P) y luego de un tiempo determinado recibe una suma mayor (F), la diferencia entre ambas cantidades representa el interés generado (I). Esta variación se conoce como el valor del dinero en el #[strong tiempo] y se expresa con la fórmula:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.col-md-5.col-8.mb-3.mb-lg-0(data-aos="fade-right")
@@ -114,7 +114,7 @@
           ul.lista-ul--color.color-3.fa-lista.mb-0
             li.mb-1
               i.fas.fa-circle-check
-              span.mb-0 i = Tasa de interés (en porcentaje)
+              span.mb-0 i = Tasa de interés (en porcentaje).
             li.mb-1
               i.fas.fa-circle-check
               span.mb-0 I = Interés obtenido.
@@ -284,7 +284,7 @@
       h5 Tabla 2.
       span Valor actual neto
     .tabla-a.color-acento-contenido.mb-4(data-aos='fade-down')
-      table(alt="Tabla de cálculo de VAN con flujos anuales y un resultado final positivo de $1.654,71indicando rentabilidad del proyecto.")
+      table(alt="Tabla de cálculo de VAN con flujos anuales y un resultado final positivo de $1.654,7 indicando rentabilidad del proyecto.")
         thead
           tr
             th Año
@@ -491,7 +491,7 @@
             td No aplica
             td $5.000.000
             td $1.000.000 
-            td 
+            td $4.000.000 
           tr
             td 5
             td No aplica
@@ -695,9 +695,7 @@
             td 1.9795 %
             td No aplica
           tr
-            td
-            td
-            td
+            td(colspan="3") -
             td PER/GAN %
             td - 3.6926 %
     

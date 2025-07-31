@@ -56,14 +56,14 @@
         .row.justify-content-center.align-items-center
           .col-lg-5
             .p-4.p-lg-5
-              p Son insumos que, aunque necesarios en la elaboración, no se incorporan físicamente al producto terminado. Un ejemplo sería el pegante utilizado para ensamblar una silla.
+              p Son aquellos insumos que forman parte del producto final y representan uno de los principales costos del proceso. Por ejemplo, la madera utilizada para fabricar sillas.
           .col-lg-7
             img(src="@/assets/curso/temas/t1/linea1-1.png")
       .tarjeta.bg7(titulo="Materiales indirectos")
         .row.justify-content-center.align-items-center
           .col-lg-5
             .p-4.p-lg-5
-              p Son aquellos insumos que forman parte del producto final y representan uno de los principales costos del proceso. Por ejemplo, la madera utilizada para fabricar sillas.
+              p Son insumos que, aunque necesarios en la elaboración, no se incorporan físicamente al producto terminado. Un ejemplo sería el pegante utilizado para ensamblar una silla.
           .col-lg-7
             img(src="@/assets/curso/temas/t1/linea1-2.png")
       .tarjeta.bg7(titulo="Mano de obra directa")
@@ -221,7 +221,7 @@
             td No aplica
             td No aplica
           tr
-            td TOTAL
+            td.fw-bold TOTAL
             td No aplica
             td No aplica
 
@@ -254,7 +254,7 @@
           ul.lista-ul--color.color-3.fa-lista
             li.mb-1
               i.fas.fa-circle-check
-              span.mb-0 CU = CT / n, en dónde
+              span.mb-0 CU = CT / n, en dónde:
             li.mb-1
               i.fas.fa-circle-check
               span.mb-0 CU = Costo unitario.

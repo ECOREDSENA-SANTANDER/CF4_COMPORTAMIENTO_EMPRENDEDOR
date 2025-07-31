@@ -106,7 +106,8 @@
           p.text-center Aportes de los socios o capital propio, resultado de la diferencia entre activos y pasivos.
 
     .bg3.p-3.mb-5
-      h5.mb-0.texto-blanco.text-center La ecuación básica del balance es: activo = pasivo + patrimonio.
+      p.mb-0.texto-blanco.text-center La ecuación básica del balance es: 
+      h5.mb-0.texto-blanco.text-center activo = pasivo + patrimonio.
 
     p.mb-4 Este estado debe ser elaborado con precisión y con base en información real, ya que será el punto de partida para evaluar el desempeño financiero de la empresa a lo largo del tiempo.
 
