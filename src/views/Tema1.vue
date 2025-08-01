@@ -195,7 +195,7 @@
 
     .titulo-sexto.color-acento-contenido.mb-3(data-aos='fade-right')
       h5 Tabla 1.
-      span Costos fijos y variables (en miles de pesos)
+      span Costos fijos y variables.
     .tabla-a.color-acento-contenido.mb-5(data-aos='fade-down')
       table(alt="Tabla de costos fijos y variables con categorías de gastos y columnas vacías para registrar valores en miles de pesos.")
         thead
