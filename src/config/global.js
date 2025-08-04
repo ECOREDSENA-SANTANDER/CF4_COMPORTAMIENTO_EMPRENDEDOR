@@ -258,7 +258,7 @@ export default {
     },
     {
       referencia:
-        'Salazar, I.P. (2010). Guía Práctica para la identificación, formulación y evaluación de proyectos.Bogotá. Editorial Universidad del Rosario. ',
+        'Salazar, I.P. (2010). Guía Práctica para la identificación, formulación y evaluación de proyectos. Bogotá. Editorial Universidad del Rosario. ',
     },
     {
       referencia:

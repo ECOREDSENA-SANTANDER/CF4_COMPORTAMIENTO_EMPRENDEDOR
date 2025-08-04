@@ -695,7 +695,9 @@
             td 1.9795 %
             td No aplica
           tr
-            td(colspan="3") No aplica
+            td No aplica
+            td No aplica
+            td No aplica
             td PER / GAN %
             td - 3.6926 %
     
