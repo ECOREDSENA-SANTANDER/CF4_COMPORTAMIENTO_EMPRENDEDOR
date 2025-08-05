@@ -698,7 +698,7 @@
             td No aplica
             td No aplica
             td No aplica
-            td PER / GAN %
+            td Perdida / Ganancia %
             td - 3.6926 %
     
     .bg4.p-4
