@@ -121,7 +121,7 @@
               h4.mb-2.tc-ac Balance inicial 
               p.mb-0 Para fortalecer el tema anteriormente plasmado, se presenta el siguiente video: 
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?v=maVbxjCWgKQ')" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?v=3z7AHJtQALA')" target="_blank")
                 span Ir al sitio
                 i.fas.fa-play
 
