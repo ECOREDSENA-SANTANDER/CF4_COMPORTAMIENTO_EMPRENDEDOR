@@ -57,7 +57,12 @@
       .col-lg-3.col-md-5.col-8.mb-3.mb-lg-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/t3/3.png' alt='')
       .col-lg-9(data-aos="fade-left")
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 2.
+          span  Fórmula del punto de equilibrio
         .bgi-1.tarjeta.p-4.p-lg-5.text-center
+          img(src='@/assets/curso/temas/t3/form-fig2.svg', alt='Fórmula del punto de equilibrio en unidades: costos fijos divididos entre precio de venta menos costo variable unitario.')
+        //.bgi-1.tarjeta.p-4.p-lg-5.text-center
           .tarjeta.tarjeta--blanca.p-3.p-lg-4
             div.formula-container
               span.v2 PEQ (Unidades)
@@ -72,7 +77,7 @@
     p.mb-4 En términos gráficos, el punto de equilibrio puede representarse de la siguiente manera:
 
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-      h5 Figura 2.
+      h5 Figura 3.
       span Representación gráfica del punto de equilibrio
     .row.justify-content-center.mb-3(data-aos='fade')
       .col-lg-6
@@ -201,7 +206,11 @@
     .row.justify-content-center.mb-5
       .col-lg-5(data-aos="fade-right")
         .bg4.tarjeta.p-4.h-100
-          .tarjeta.tarjeta--blanca.p-3.text-center.mb-3
+          .titulo-sexto.color-acento-contenido.mb-2
+            h5 Figura 4.
+            span Factor de valor presente.
+          img.mb-4.w-75.pe-lg-5(src='@/assets/curso/temas/t3/fig4.svg', alt='Fracción uno sobre paréntesis uno más i elevado a la n.')
+          //.tarjeta.tarjeta--blanca.p-3.text-center.mb-3
             div.formula-container
               .fraction
                 .numerator
@@ -217,7 +226,11 @@
               i.fas.fa-circle-check
               span.mb-0 N = es el número de periodos.
           p La fórmula general del VAN es la siguiente:
-          .tarjeta.tarjeta--blanca.p-3.mb-3
+          .titulo-sexto.color-acento-contenido.mb-2
+            h5 Figura 5.
+            span Fórmula general del Valor Actual Neto (VAN) 
+          img.mb-4(src='@/assets/curso/temas/t3/fig5.svg', alt='VAN igual a la sumatoria desde t igual cero hasta n de ingresos menos egresos, multiplicado por uno sobre uno más i elevado a la t.')
+          //.tarjeta.tarjeta--blanca.p-3.mb-3
             .math-formula.text-center
               .formula2
                 span.operator2.font-italic VAN =
