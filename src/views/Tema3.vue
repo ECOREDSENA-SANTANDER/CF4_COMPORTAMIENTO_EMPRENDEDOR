@@ -678,7 +678,7 @@
 
     .titulo-sexto.color-acento-contenido.mb-3(data-aos='fade-right')
       h5 Tabla 4.
-      span Calculo costo capital
+      span Cálculo costo capital
     .tabla-a.color-acento-contenido.mb-4(data-aos='fade-down')
       table(alt="Tabla con fuentes de financiación: patrimonio y bancos, sus valores, porcentajes ponderados, costos individuales y costo de capital total del 1.9795 %.")
         thead

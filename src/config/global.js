@@ -155,7 +155,7 @@ export default {
       referencia:
         'Ecosistema de Recursos Educativos Digitales SENA. (2021, 10 abril). Balance inicial. ',
       tipo: 'Video ',
-      link: 'https://www.youtube.com/watch?v=maVbxjCWgKQ',
+      link: 'https://www.youtube.com/watch?v=3z7AHJtQALA',
     },
     {
       tema: 'Presupuesto de costos. ',
@@ -262,7 +262,7 @@ export default {
     },
     {
       referencia:
-        'Veiga,J.F.C.(2015). La Gestión Financiera de la Empresa. Madrid: Esic Editorial. ',
+        'Veiga, J.F.C.(2015). La Gestión Financiera de la Empresa. Madrid: Esic Editorial. ',
     },
   ],
   creditos: [
