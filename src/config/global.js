@@ -151,14 +151,14 @@ export default {
   },
   complementario: [
     {
-      tema: 'Balance inicial. ',
+      tema: 'Balance inicial.',
       referencia:
         'Ecosistema de Recursos Educativos Digitales SENA. (2021, 10 abril). Balance inicial. ',
       tipo: 'Video ',
       link: 'https://www.youtube.com/watch?v=3z7AHJtQALA',
     },
     {
-      tema: 'Presupuesto de costos. ',
+      tema: 'Presupuesto de costos.',
       referencia:
         'Presupuestos y control de costos - Praxis Framework. (s. f.).  ',
       tipo: 'Página web ',
