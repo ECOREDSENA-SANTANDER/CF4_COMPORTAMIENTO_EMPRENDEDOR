@@ -88,17 +88,17 @@ export default {
           },
           {
             numero: '3.2',
-            titulo: 'Tasa Interna de Oportunidad (TIO)',
+            titulo: 'Tasa interna de oportunidad (TIO)',
             hash: 't_3_2',
           },
           {
             numero: '3.3',
-            titulo: 'Valor Actual Neto (VAN) o Valor Presente Neto (VPN)',
+            titulo: 'Valor actual neto (VAN) o valor presente neto (VPN)',
             hash: 't_3_3',
           },
           {
             numero: '3.4',
-            titulo: 'Tasa Interna de Retorno (TIR)',
+            titulo: 'Tasa interna de retorno (TIR)',
             hash: 't_3_4',
           },
         ],
@@ -228,17 +228,17 @@ export default {
         'estimación anticipada de los gastos necesarios para producir bienes o prestar servicios dentro de un proyecto empresarial. ',
     },
     {
-      termino: 'Tasa Interna de Oportunidad (TIO)',
+      termino: 'Tasa interna de oportunidad (TIO)',
       significado:
         'rentabilidad mínima exigida por un inversionista considerando otras alternativas de inversión. ',
     },
     {
-      termino: 'Tasa Interna de Retorno (TIR)',
+      termino: 'Tasa interna de retorno (TIR)',
       significado:
         'tasa de rentabilidad que iguala los ingresos y egresos futuros de un proyecto; debe ser mayor al costo de capital para que el proyecto sea viable. ',
     },
     {
-      termino: 'Valor Actual Neto (VAN)',
+      termino: 'Valor actual neto (VAN)',
       significado:
         'indicador que muestra el valor presente de los flujos netos de un proyecto; si es positivo, el proyecto es rentable.',
     },

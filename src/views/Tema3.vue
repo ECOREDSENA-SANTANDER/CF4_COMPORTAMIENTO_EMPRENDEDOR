@@ -86,7 +86,7 @@
 
     Separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 3.2  Tasa Interna de Oportunidad (TIO)
+      h2 3.2  Tasa interna de oportunidad (TIO)
 
     .row.justify-content-center.mb-5(data-aos="fade")
       .col-lg-4.pe-lg-0.d-none.d-lg-block
@@ -174,7 +174,7 @@
       .col-lg-9(data-aos="fade-left")
         .bg4.tarjeta.p-4.px-lg-5
           .deco2.mb-3
-          p Suponga que la señorita Laura Galindo acostumbra a realizar inversiones en CDT, en los cuales le pagan en promedio el 32 % efectivo anual de intereses. (La tasa de Interés de oportunidad para esta persona equivaldría a ese mismo 32 % efectivo anual en términos corrientes).
+          p Suponga que la señorita Laura Galindo acostumbra a realizar inversiones en CDT, en los cuales le pagan en promedio el 32 % efectivo anual de intereses. (La tasa de interés de oportunidad para esta persona equivaldría a ese mismo 32 % efectivo anual en términos corrientes). 
           p En términos constantes se asumiría la tasa real del inversionista, donde a la tasa de oportunidad se le descuenta la tasa de inflación.
           p Si la tasa de oportunidad es del 2,5 % mensual y la tasa de inflación es del 1,5 % mensual. ¿Cuál es la tasa real de oportunidad del inversionista?
           ul.lista-ul--color.color-3.fa-lista.mb-0
@@ -191,13 +191,13 @@
 
     Separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 3.3  Valor Actual Neto (VAN) o Valor Presente Neto (VPN)
+      h2 3.3  Valor actual neto (VAN) o valor presente neto (VPN)
 
     .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-4(data-aos="fade-down")  
       .bloque-texto-g__img(
         :style="{'background-image':`url(${require('@/assets/curso/temas/t3/9.jpg')})`}")
       .bloque-texto-g__texto.p-4
-        p.mb-0 El Valor Actual Neto (VAN) es uno de los indicadores financieros más utilizados para evaluar la viabilidad económica de un proyecto. Su propósito es estimar el valor presente de los flujos netos de efectivo que se generarán a lo largo de la vida útil del proyecto, descontados a una tasa de interés fija que representa el costo de oportunidad del capital. #[br] #[br]
+        p.mb-0 El valor actual neto (VAN) es uno de los indicadores financieros más utilizados para evaluar la viabilidad económica de un proyecto. Su propósito es estimar el valor presente de los flujos netos de efectivo que se generarán a lo largo de la vida útil del proyecto, descontados a una tasa de interés fija que representa el costo de oportunidad del capital. #[br] #[br]
         p.mb-0 En otras palabras, el VAN permite conocer si, al invertir en un proyecto, los ingresos futuros compensarán no solo la inversión inicial, sino también el valor del dinero en el tiempo. Esta herramienta considera que el uso del dinero tiene un costo, ya que al invertir una suma hoy, se renuncia a otras posibles alternativas de rentabilidad. A este costo se le conoce como interés, y se refleja en la tasa de descuento.
 
     .bg9.p-4.mb-4(data-aos="fade")
@@ -398,13 +398,13 @@
     
     Separador
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 3.4  Tasa Interna de Retorno (TIR)
+      h2 3.4  Tasa interna de retorno (TIR)
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down")  
       .bloque-texto-g__img(
         :style="{'background-image':`url(${require('@/assets/curso/temas/t3/11.jpg')})`}")
       .bloque-texto-g__texto.p-4
-        p.mb-0 La Tasa Interna de Retorno (TIR) es un indicador financiero que permite evaluar la rentabilidad real de un proyecto de inversión, con base en sus flujos de caja esperados. Representa la tasa de interés o descuento que iguala el valor actual de los ingresos proyectados con el valor actual de los egresos, es decir, el punto en el cual el Valor Actual Neto (VAN) es igual a cero. #[br] #[br]
+        p.mb-0 La tasa interna de retorno (TIR) es un indicador financiero que permite evaluar la rentabilidad real de un proyecto de inversión, con base en sus flujos de caja esperados. Representa la tasa de interés o descuento que iguala el valor actual de los ingresos proyectados con el valor actual de los egresos, es decir, el punto en el cual el valor actual neto (VAN) es igual a cero.  #[br] #[br]
         p.mb-0 La TIR se expresa como un porcentaje y refleja el rendimiento que generará el capital invertido en el proyecto. Para evaluar su conveniencia, se compara con el costo de capital, que representa el rendimiento mínimo exigido para considerar una inversión como aceptable.
 
     .subt.mb-4(data-aos="fade")

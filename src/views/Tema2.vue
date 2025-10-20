@@ -237,13 +237,13 @@
       .col-lg-8
         .tarjeta.bg2.h-100.p-4.px-lg-5
           p Un flujo de caja bien estructurado no solo guía la toma de decisiones, sino que también fortalece la capacidad de negociación con inversionistas, entidades financieras y aliados estratégicos.
-          p.mb-0 Formas de presentar el flujo de efectivo proyectado: el estado de efectivo se puede presentar de manera simplificada, el cual no se organiza con una estructura compleja las entradas y salidas de efectivo, la formula se expresa de la siguiente manera:
+          p.mb-0 Formas de presentar el flujo de efectivo proyectado: el estado de efectivo se puede presentar de manera simplificada, el cual no se organiza con una estructura compleja de las entradas y salidas de efectivo, la formula se expresa de la siguiente manera:  
       .col-lg-4.d-none.d-lg-block
         .bg6.h-100.px-lg-3
           img(src='@/assets/curso/temas/t2/11.svg', alt='')
 
     .bg3.p-3.mb-4
-      p.mb-0.texto-blanco.text-center Saldo final de caja = saldo inicial de caja + (entradas de efectivo – salidas de efectivo).
+      p.mb-0.texto-blanco.text-center Saldo final de caja = saldo inicial de caja + (entradas de efectivo - salidas de efectivo).
 
 
 </template>
